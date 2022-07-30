@@ -8,3 +8,5 @@ Description: Pesky viewers.
 License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.2.1
+URL: https://github.com/D-Se/newview
+BugReports: https://github.com/D-Se/newview/issues
